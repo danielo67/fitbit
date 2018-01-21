@@ -1,0 +1,5 @@
+<svg class="background">
+  <text id="myLabel1" />
+  <text id="myLabel2" />
+  <text id="myLabel3" />
+</svg>

@@ -1,0 +1,33 @@
+.background {
+  viewport-fill: cyan;
+}
+
+#myLabel1 {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: left;
+  x: 10%;
+  y: 10%+30;
+  fill: black;
+}
+
+#myLabel2 {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: left;
+  x: 10%;
+  y: 10%+60;
+  fill: black;
+}
+
+#myLabel3 {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 60%;
+  y: 50%+40;
+  fill: black;
+}
